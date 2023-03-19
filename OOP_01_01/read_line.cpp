@@ -1,6 +1,7 @@
 //#include "read_line.h"
 
 #include <fstream>
+#include <string>
 
 #include "message_codes.h"
 #include "const_values.h"
